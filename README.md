@@ -43,7 +43,12 @@ python Desafio_Aula_5.py
 - The output CSV is generated automatically
 - The .env file is not included for security reasons
 
+## Context
+
+This project was developed as part of a challenge from the Alura course "Python: Inteligência Artificial Aplicada", applying the concepts to real data using LLM-based sentiment classification.
+
 
 ## Author
 
-bitmonk-ai
+Eduardo Rabelo (bitmonk-ai)  
+https://github.com/bitmonk-ai
