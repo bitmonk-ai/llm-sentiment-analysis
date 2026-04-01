@@ -12,7 +12,7 @@ Each review is classified as:
 
 - Python
 - pandas
-- OpenAI API
+- OpenAI API (LLM)
 - CSV
 
 
