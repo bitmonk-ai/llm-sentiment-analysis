@@ -45,7 +45,9 @@ python Desafio_Aula_5.py
 
 ## Context
 
-This project was developed as part of a challenge from the Alura course "Python: Inteligência Artificial Aplicada", applying the concepts to real data using LLM-based sentiment classification.
+This project was developed as part of a challenge from the Alura career path "Engenharia de IA", specifically from the course "Python: Inteligência Artificial Aplicada", applying the concepts to real data using LLM-based sentiment classification.
+
+Source: https://cursos.alura.com.br/dashboard/career/engenharia-de-ia
 
 
 ## Author
